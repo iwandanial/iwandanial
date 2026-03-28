@@ -1,7 +1,7 @@
 # Hi, I’m Ridzwan Danial 👋
 
-💻 Computer Science Student @ UiTM  
-📊 Aspiring Data Analyst | 🌐 Network Engineer | 🔐 Cybersecurity Enthusiast  
+💻 Information Systems Student @ UiTM  
+📊 Aspiring Data Analyst
 
 ---
 
@@ -53,8 +53,9 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add your link here)
+- 📧 Email: iwandanial04@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/ridzwandanial
+  
 
 ---
 
