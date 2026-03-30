@@ -1,6 +1,6 @@
 # Hi, I’m Ridzwan Danial 👋
 
-💻 Information Systems Student @ UiTM  
+💻 Information Systems Student   
 📊 Aspiring Data Analyst
 
 ---
